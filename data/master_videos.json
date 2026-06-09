@@ -1369,13 +1369,31 @@
       "drive_file_id": "1PbAP5C9yBd-ugWTgTyU1qSk_tyuEOf07"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Photography/Cinematography",
+        "project": "Dramatic Spotlight Portrait",
+        "summary": "A creative photoshoot featuring a man sitting against a distressed wall, illuminated by a single, focused spotlight in a dark, abandoned-looking environment to create a moody, cinematic aesthetic.",
+        "materials": [
+          "Varsity jacket",
+          "Casual shirt",
+          "Jeans"
+        ],
+        "tools": [
+          "Spotlight",
+          "Tripod",
+          "Camera"
+        ],
+        "viral_hook": "How to get a professional cinematic look with just one light in a dark room."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "cqrpKlipbHw",
+        "uploaded_at": "2026-06-09T06:17:09.490560",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1389,6 +1407,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T06:17:02.572163"
     }
   },
   {
