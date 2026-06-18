@@ -5999,13 +5999,32 @@
       "drive_file_id": "14dTXpmumUtIpupZ1-DV3csG83gMcTZXJ"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Horror / Creepypasta",
+        "project": "Found footage style exploration",
+        "summary": "The video features a first-person perspective of an individual exploring a dark, abandoned tunnel or underground passage. Using a flashlight, they encounter various abandoned props and discarded toys, including what appears to be CGI-inserted characters from the 'Talking Tom' franchise, creating an uncanny or eerie atmosphere.",
+        "materials": [
+          "Discarded toys / plushies",
+          "Stage curtains",
+          "Wooden pallets",
+          "Cables",
+          "Various debris"
+        ],
+        "tools": [
+          "Flashlight",
+          "Tripod"
+        ],
+        "viral_hook": "The unexpected and unsettling discovery of popular children's digital characters rendered into a dark, abandoned, and real-world underground setting."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Ogg4G3w18xQ",
+        "uploaded_at": "2026-06-18T09:40:53.065281",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6019,6 +6038,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T09:40:48.811221"
     }
   },
   {
